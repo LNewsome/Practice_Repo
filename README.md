@@ -1,2 +1,2 @@
 # Practice_Repo
-This is a practice for creating the a repository.
+This is a practice for creating a repository.
